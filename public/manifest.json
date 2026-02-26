@@ -1,0 +1,21 @@
+{
+  "name": "AskmyNote - AI Study Copilot",
+  "short_name": "AskmyNote",
+  "description": "Intelligent AI study copilot with document indexing and study notes.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0c",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://picsum.photos/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

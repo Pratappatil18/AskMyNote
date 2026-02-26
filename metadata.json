@@ -1,0 +1,7 @@
+{
+  "name": "AskmyNote",
+  "description": "Intelligent AI study copilot with document indexing, study notes, and adaptive learning.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
